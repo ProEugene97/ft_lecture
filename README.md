@@ -1,1 +1,1 @@
-# ft_lecture1
+# ft_lecture
